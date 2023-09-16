@@ -40,6 +40,7 @@
 - **Back-end Development**:
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <br>
@@ -136,7 +137,9 @@
 <br>
 
 <div align='center'>
-<b>Dung tin ai het</b>
+
+## <b> Because you are alive, everything is possible✨ </b>
+
 </div>
 <br>
 <br>
