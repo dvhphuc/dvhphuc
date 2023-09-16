@@ -15,10 +15,11 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Computer Science Student
-- Currently an Intern Software Enginner at bbv Vietnam Corp.
-- Hanging out with friends in free time
+- 🔭 A passionate Self-taught Back-end developer
+- 🧑‍🎓 Computer Science Student
+- 💼 Currently an Intern Software Enginner at bbv Vietnam Corp.
+- 😄 Hanging out with friends in free time
+- 💬 Ask me about Competitive Programming
 
 <br><br>
 
